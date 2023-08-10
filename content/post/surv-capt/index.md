@@ -1,7 +1,7 @@
 ---
 title: 无处可逃：信任危机与监控资本主义
 description: 「老大哥正在看着你。」
-slug: .
+slug: surv-capt
 date: 2023-08-10 00:00:00+0000
 image: cover.webp
 categories:
