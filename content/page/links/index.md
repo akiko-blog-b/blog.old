@@ -5,10 +5,11 @@ links:
     description: Izumi Chino's Blog - そ、そんな名前の人は知らない!
     website: https://www.izumichino.tk
     image: https://www.izumichino.tk/wp-content/uploads/2023/02/IMG_20230208_012057_384.png
+
   - title: Chizuru 的博客
     description: 以知识充实灵魂。
     website: https://chizurumtf.wordpress.com/
-    image: https://imgse.com/i/pPulrPU
+    image: https://s1.ax1x.com/2023/08/12/pPulrPU.png
 menu:
     main: 
         weight: 4
