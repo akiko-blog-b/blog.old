@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hello World on Akiko's Blog</title><link>https://akiko-blog.github.io/tags/hello-world/</link><description>Recent content in Hello World on Akiko's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://akiko-blog.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://akiko-blog.github.io/p/hello-world/</link><pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate><guid>https://akiko-blog.github.io/p/hello-world/</guid><description>&lt;img src="https://akiko-blog.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" />&lt;blockquote>
+&lt;p>Hello World. This is Project Retsu, where our story begins.&lt;/p>
+&lt;/blockquote>
+&lt;p>这里没有所谓的「初心」或「使命」，只有一个普通人微不足道的信念。&lt;/p>
+&lt;h2 id="为什么创建该-blog">为什么创建该 blog？&lt;/h2>
+&lt;p>笔者曾经活跃于 Twitter, Mastodon 这样的「微博客」（micro blog）平台。但是他们有明显的缺点：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>存在字数限制。Twitter 为 140 字，而 Mastodon 则放宽至 250 字，近乎 Twitter 的两倍。但是，很多内容难以在如此短小的篇幅内清晰、详细地表达。如果分为推文串，阅读体验又将大打折扣。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>存在审查。无论是 Twitter 还是 Mastodon 都存在内容审查，区别不过在于宽松程度。大多数时候，审查者透过对浏览量的控制达到其目的。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Project Retsu 因此呼之欲出。&lt;/p>
+&lt;h2 id="在该-blog-中将有什么内容">在该 Blog 中将有什么内容？&lt;/h2>
+&lt;p>Project Retsu 专注于「信息安全」（cybersecurity）和「抗审查」（anti-censorship）领域。偶尔也会有感而发写一些其他内容。&lt;/p>
+&lt;p>政治内容将尽可能被避免，发表的内容不针对任何政权。&lt;/p>
+&lt;h2 id="结语">结语&lt;/h2>
+&lt;p>Project Retsu 将尽力持续更新，愿我们能够相伴而行。&lt;/p>
+&lt;p>再会！&lt;/p></description></item></channel></rss>

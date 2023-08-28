@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Akiko's Blog</title><link>https://akiko-blog.github.io/post/</link><description>Recent content in Posts on Akiko's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://akiko-blog.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>无处可逃：信任危机与监控资本主义</title><link>https://akiko-blog.github.io/p/surv-capt/</link><pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate><guid>https://akiko-blog.github.io/p/surv-capt/</guid><description>&lt;img src="https://akiko-blog.github.io/p/surv-capt/cover.webp" alt="Featured image of post 无处可逃：信任危机与监控资本主义" />&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>当英国《卫报》（&lt;em>The Guardian&lt;/em>）在2013年6月3日揭露爱德华·斯诺登（Edward Snowden）提供的「棱镜计划」（PRISM）文件时，美国乃至全球的民众都猛然意识到自己正处于 NSA（National Security Agency，美国国家安全局）布置的精密监控网络的控制下。PRISM 最可怕的地方并不单纯地在于国家机器的&lt;del>精甚细腻&lt;/del>精密操作，而是普通民众在日常生活中必须接触的垄断公司和国家机器的大规模合作。这意味着国家机器无需&lt;strong>直接&lt;/strong>利用自身资源监控&lt;strong>普通&lt;/strong>民众：对于&lt;strong>普通&lt;/strong>民众的监控可以交由各垄断公司，于是国家有能力投入更多资源用于直接监控&lt;strong>敏感人物&lt;/strong>（毕竟他们可不会幼稚到用 Gmail 处理机要事务）。&lt;/p>
+&lt;p>于是，乔治·奥威尔（George Orwell）在《一九八四》（&lt;em>Nineteen Eighty-Four&lt;/em>）中描写的「电幕」（新话：telescreen）成为了每个人不可避免使用的移动设备和个人电脑。&lt;code>The Big Brother is watching you&lt;/code> 从虚构的恐惧变为现实。&lt;/p>
+&lt;h2 id="什么是监控资本主义">什么是「监控资本主义」？&lt;/h2>
+&lt;p>毫无疑问的，当今世界处于资本主义的控制之下（至于所谓「社会主义国家」，我在这里简单声明一下：这是斯大林主义理论的「优秀产物」。在马克思和恩格斯的论述中，社会主义作为共产主义的第一阶段，是不应存在「国家」这一概念的。与之相对应的，在资本主义向共产主义过渡时将建立「无产阶级专政」）。因此，国家机器的存在即是服务于资本主义秩序的维续和稳定。过去的极权政权出于相似的目的对民众实施过基于人力运作的大规模监控，然而效果并不尽如人意。一方面原因在于人力手段的低效率，另一方面则是直接强制性手段造成的抵触性情绪。两种因素共同造成了传统审查手段的低效率，因此各类反抗者层出不穷。&lt;/p>
+&lt;p>而今天，一切都变了。&lt;/p>
+&lt;p>技术手段的发展在一段时间内促进了自由思想的传播：印刷术和造纸术将知识自由带给民众。&lt;/p>
+&lt;blockquote>
+&lt;p>如果说⼀个字写下来会产⽣某种危险性，那么印刷出来的字就会有百倍的危险。有⼈很早以前就意识到了印刷术会带来危险，例如亨利⼋世，他的星室法庭就被授权查禁书籍。伊丽莎⽩⼀世、斯图亚特王朝和很多其他古登堡之后的君主都认识到了这⼀点。这些⼈中包括教皇保罗四世，他在位期间，制订了第⼀个教廷禁书⽬录。戴维·⾥斯曼说过，在印刷术的世界⾥，信息是思想的⽕药，所以审查者们才需要穿着肃穆的⻓袍来熄灭点燃的炸药。&lt;/p>
+&lt;p>————《娱乐至死》（&lt;em>Amusing Ourselves to Death&lt;/em>），尼尔·波兹曼（Neil Postman）&lt;/p>
+&lt;/blockquote>
+&lt;p>但是，技术自身是中立的。这就是说，技术的作用和影响取决于使用者。&lt;/p>
+&lt;p>当审查者意识到技术手段可以为己所用时，他们便欣然接过曾经刺伤自己的毒刺，将其对准新的反抗者，甚至是无反抗倾向的民众。&lt;/p>
+&lt;p>现在，我们来回答：什么是「监控资本主义」？&lt;/p>
+&lt;p>正如其名：监控和资本主义。&lt;/p>
+&lt;p>监控，透过一切可能手段。任何带麦克风或摄像头的设备都可以变成受国家机器和垄断公司掌控的「电幕」。与大洋国的电幕不同，在这里没有法律强迫你安装它，但是你的日常生活和工作必须使用它。统治者（也是审查者）已经意识到，利用技术发展带给普通民众的便捷进行监视是成本最低，也是最不易被察觉的手段。PRISM 的参与者 Google, Yahoo, Microsoft 等都是欧美国家的居民日常使用的服务，民众自然而然地对其产生信任和依赖。中国的审查者更加简单粗暴：禁止民众使用非基于中国大陆的网络服务，同时通过法律授权国家机器随时存取存储在中国的数据（以「司法需要」和「国家安全」的名义）；民众在封闭中自然地对中国的网络服务产生依赖。这是第一步骤。&lt;/p>
+&lt;p>第二步骤：向垄断公司施加压力，使其自愿向政府提供用户讯息。比起单纯的惩戒性措施，政府更倾向于使用「胡萝卜加大棒」的方式。垄断公司在这一过程中逐渐和政府沆瀣一气，共同构成审查机器。出于商业利益的需要，垄断公司需要借助国家机器的力量————于是现代审查机器的两大部分在利益和各种需求的基础上整合。&lt;/p>
+&lt;h2 id="监控资本主义的危害何在">「监控资本主义」的危害何在？&lt;/h2>
+&lt;p>这就涉及本文标题中的另一个词语了：信任危机。&lt;/p>
+&lt;p>在监视与审查无处不在的时代，你没有可以完全信任的个人或组织。甚至你自己也是不完全可靠的————因为你使用的一切都可能正在监视你，并泄露你的隐私。从手机、个人电脑到智能家居，新的电幕无处不在。&lt;/p>
+&lt;p>这种危机感和《一九八四》中描述的「战时状态」有微妙的相似之处，又与赫胥黎（Aldous Huxley）在《美丽新世界》（&lt;em>Brave New World&lt;/em>）中人们对奴役的热爱相吻合。民众在多年的有意培育下已被互联网服务的便捷性所困，因此甘愿承受被监视的代价。&lt;/p>
+&lt;p>「把你的隐私交给国家又有何不可？」中国的宣传者如是说。当然，多年来不断发生的讯息泄露会在无声中回答：「因为没有人会保护我们。」毕竟监控资本主义只负责维持现有秩序，而民众和隐私只是牺牲品。&lt;/p>
+&lt;h2 id="应该信任谁">应该信任谁？&lt;/h2>
+&lt;p>正如上文所言，你没有可以完全信任的个人或组织。&lt;/p>
+&lt;p>在这里我们不妨将信任分为多个不同的等级，供读者参考。&lt;/p>
+&lt;blockquote>
+&lt;p>完全不信任&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>PRISM 参与者，包括 Google, Facebook, Microsoft, Yahoo, Apple 和 Dropbpx 等。根据泄露的机密文件显示，这些公司参与了 PRISM 计划，监控用户并将用户数据上交至 NSA；&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>所有中国企业和有中国企业投资的企业。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>「免费的」代理服务&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>应该尽力避免使用上述服务。如不得已必须使用，务必做好物理隔离，将提交的个人讯息减至最少。由于上述服务均有意避免用户做出匿名化措施，因此不应用于任何可能触犯法律的活动。一般的「免费代理」极有可能是审查者有意布置的蜜罐，因此不应该使用。&lt;/p>
+&lt;blockquote>
+&lt;p>高度不信任&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>中心化的商业社交媒体（如 Twitter, Telegram）；&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>服务提供地位于五眼联盟成员国的其他公司。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>商业 VPN 代理服务&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>仍然应该尽量不提供个人讯息，同时使用匿名化服务（如 Tor 或 i2p）。&lt;/p>
+&lt;blockquote>
+&lt;p>部分信任&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>
+&lt;p>开源软件&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>分布式网络服务&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>由于它们通常不采集或很少采集个人讯息（因为公开代码中的后门极易被发现）且不用于商业目的，因此可以选择性地信任这些服务。使用分布式网络服务时仍应该尽可能使用 Tor 和 i2p 这样的匿名化网络服务。以 Mastodon 为例，实例（instance）的拥有者依然能获取 Email 和 IP 地址一类的基本讯息。&lt;/p>
+&lt;p>同时需要注意的是，在任何社交媒体上都存在由政府组织的钓鱼账户。所以不要轻易相信任何「网友」，更不应该提供任何个人讯息以及可以关联到个人的账户。&lt;/p>
+&lt;p>&lt;strong>特别给中国等国家用户的话语：外国「老大哥」未必可信。你永远无法确定商业公司是否会为了商业目的出卖个人讯息，更不必说中国的间谍渗透能力并不在美国之下。Twitter 就曾被 FBI 警告遭中国特工入侵。斯诺登本身只是 NSA 的外包技术人员却可以接触到 PRISM 相关文件，你又如何排除不会有第二个斯诺登不会向中国（或其他国家）泄露讯息的可能呢？&lt;/strong>&lt;/p>
+&lt;h2 id="结语">结语&lt;/h2>
+&lt;p>接触互联网并与其他用户产生交互是不可避免的。但是匿名化手段相对成熟的今天，无论是普通的「数字移民」还是「反抗者」都有适用于自身情况的完整方案。也许我们并不能拿起武器去街头和军警对峙，甚至不能抵挡有组织的、针对性的安全渗透。但是，用 &lt;a class="link" href="https://librewolf.net" target="_blank" rel="noopener"
+>LibreWolf&lt;/a> 替换 Google Chrome，将搜索引擎更换至 &lt;a class="link" href="https://duckduckgo.com" target="_blank" rel="noopener"
+>DuckDuckGo&lt;/a> 是我们力所能及的事情。更进一步，你可以选择透过 &lt;a class="link" href="https://torproject.org" target="_blank" rel="noopener"
+>Tor Browser&lt;/a> 访问互联网，它是基于 Firefox 的 Tor 代理集成方案。&lt;a class="link" href="https://prism-break.org" target="_blank" rel="noopener"
+>Prism-break&lt;/a> 更收集了较全面的反监控软件方案。&lt;/p>
+&lt;p>未意识到监视与审查的存在并不可怕。可怕的是知道它们的存在却选择了忽视。由于篇幅所限，我并不能介绍我所知道的各类匿名化方案，但是这些方案中的绝大多数非常容易被检索，实施的难度也并不是很高（视你的具体情况有所不同）。诚然，匿名化是反人类的社交天性的，所以实施这些方案必然带来难以适应的「阵痛」。但是，相比聊天记录的每一句话、搜索引擎和浏览器的每一条历史被商业公司和国家机关所截获，匿名化的投入是绝对值得的。更何况当你需要表达对现有秩序及其拥护者的不满时，你最不希望的事情大概就是被警察敲开家门、审讯和牢狱之灾。&lt;/p>
+&lt;p>「老大哥正在看着你」，那我们就用自己的意志和前人积累的经验抗争。言论自由和不被监视的自由在这个时代是宝贵的，但绝非被赐予的。&lt;/p>
+&lt;p>再会！&lt;/p></description></item><item><title>Hello World</title><link>https://akiko-blog.github.io/p/hello-world/</link><pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate><guid>https://akiko-blog.github.io/p/hello-world/</guid><description>&lt;img src="https://akiko-blog.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" />&lt;blockquote>
+&lt;p>Hello World. This is Project Retsu, where our story begins.&lt;/p>
+&lt;/blockquote>
+&lt;p>这里没有所谓的「初心」或「使命」，只有一个普通人微不足道的信念。&lt;/p>
+&lt;h2 id="为什么创建该-blog">为什么创建该 blog？&lt;/h2>
+&lt;p>笔者曾经活跃于 Twitter, Mastodon 这样的「微博客」（micro blog）平台。但是他们有明显的缺点：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>存在字数限制。Twitter 为 140 字，而 Mastodon 则放宽至 250 字，近乎 Twitter 的两倍。但是，很多内容难以在如此短小的篇幅内清晰、详细地表达。如果分为推文串，阅读体验又将大打折扣。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>存在审查。无论是 Twitter 还是 Mastodon 都存在内容审查，区别不过在于宽松程度。大多数时候，审查者透过对浏览量的控制达到其目的。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Project Retsu 因此呼之欲出。&lt;/p>
+&lt;h2 id="在该-blog-中将有什么内容">在该 Blog 中将有什么内容？&lt;/h2>
+&lt;p>Project Retsu 专注于「信息安全」（cybersecurity）和「抗审查」（anti-censorship）领域。偶尔也会有感而发写一些其他内容。&lt;/p>
+&lt;p>政治内容将尽可能被避免，发表的内容不针对任何政权。&lt;/p>
+&lt;h2 id="结语">结语&lt;/h2>
+&lt;p>Project Retsu 将尽力持续更新，愿我们能够相伴而行。&lt;/p>
+&lt;p>再会！&lt;/p></description></item></channel></rss>
